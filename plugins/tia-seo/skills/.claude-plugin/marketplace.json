@@ -1,0 +1,15 @@
+{
+  "name": "tia-seo-skills",
+  "description": "Free SEO, GEO/AEO and Local SEO skills for AI agents by Tech Info AI",
+  "owner": {
+    "name": "Tech Info AI",
+    "url": "https://techinfoai.net"
+  },
+  "plugins": [
+    {
+      "name": "tia-seo",
+      "source": "./plugins/tia-seo",
+      "description": "9 SEO skills: site audit, keyword research, on-page SEO, content briefs, schema, GEO/AEO, local SEO, internal linking and link building. No API keys."
+    }
+  ]
+}
